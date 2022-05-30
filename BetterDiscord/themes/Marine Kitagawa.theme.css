@@ -1,0 +1,57 @@
+/**
+ * @name Marine Kitagawa
+ * @author iSpaceX
+ * @version 1.0.0
+ * @description Marine Kitagawa
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --background-image: url('https://imgmedia.aweita.pe/1200x660/aweita/original/2022/03/22/6239d7a6740cc210fb2ad19f.jpg');
+  --background-image-blur: 1px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-modal-image: url('https://imgmedia.aweita.pe/1200x660/aweita/original/2022/03/22/6239d7a6740cc210fb2ad19f.jpg');
+  --popout-modal-blur: 3px;
+  --popout-modal-size: cover;
+  --popout-modal-position: center;
+  --home-button-image: url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.36;
+  --left-brightness: 0.8;
+  --middle-brightness: 0.6;
+  --right-brightness: 0;
+  --popout-modal-brightness: 0.75;
+  --gradient-primary: 5,10,63;
+  --gradient-secondary: 63,81,181;
+  --link-colour: #0085B9;
+  --scrollbar-colour: rgb(63,81,181,1);
+  --gradient-direction: 320deg;
+  --tint-colour: 63,81,181;
+  --tint-brightness: 0;
+  --font: Whitney;
+  --window-padding: 0px;
+  --window-roundness: 5px;
+  --update-notice-1: none;
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
